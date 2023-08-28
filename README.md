@@ -32,6 +32,7 @@ After opening the web portal  at http://127.0.0.1/5000 to interact with the web 
 
 
 ## Contacts
+joyeuse - [@Linkedin](https://www.linkedin.com/in/joyeuse-kabanyana) - joyeusekabanyana@gmail.com
 
 <li>Joyeuse  Kabanyana<a href="https://www.linkedin.com/in/joyeuse-kabanyana">- joyeusekabanyana@gmail.com</li>
 <li>Esther Mwangi - [@Linkedin](https://www.linkedin.com/in/esther-mwangi-/) - mwangiestherwambuii@gmail.com</li>
