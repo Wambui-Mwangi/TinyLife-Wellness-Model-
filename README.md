@@ -7,7 +7,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## ABOUT PROJECT
 
 
 
@@ -17,13 +17,14 @@ Welcome to our TinyLife Wellness!  TinyLife Wellness is a web portal that is bac
 
 
 
-### Built With
+### BUILT WITH
 
 *Python
+<br>
 *Django
 
 
-## Usage
+## USAGE
 
 After opening the web portal  at http://127.0.0.1/5000 to interact with the web portal
 
@@ -31,7 +32,7 @@ After opening the web portal  at http://127.0.0.1/5000 to interact with the web 
 
 
 
-## Contacts
+## CONTACTS
 Joyeuse Kabanyana - [@Linkedin](https://www.linkedin.com/in/joyeuse-kabanyana) - joyeusekabanyana@gmail.com
 <br>
 Esther Mwangi - [@Linkedin](https://www.linkedin.com/in/esther-mwangi-/) - mwangiestherwambuii@gmail.com
