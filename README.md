@@ -35,9 +35,11 @@ After opening the web portal  at http://127.0.0.1/5000 to interact with the web 
 Joyeuse Kabanyana - [@Linkedin](https://www.linkedin.com/in/joyeuse-kabanyana) - joyeusekabanyana@gmail.com
 <br>
 Esther Mwangi - [@Linkedin](https://www.linkedin.com/in/esther-mwangi-/) - mwangiestherwambuii@gmail.com
-
-<li>Loice Kanini - [@Linkedin](https://www.linkedin.com/in/loice-mwau-94759426a/) - mwauloice@gmail.com</li>
-<li>Grace Kazungu - [@Linkedin](https://www.linkedin.com/in/gracekazungu/) - kazungungrace@gmail.com</li>
-<li>Marion Njeri - [@Linkedin](https://www.linkedin.com/in/marion-njeri/) - njeriwmarion@gmail.com</li>
+<br>
+Loice Kanini - [@Linkedin](https://www.linkedin.com/in/loice-mwau-94759426a/) - mwauloice@gmail.com
+<br>
+Grace Kazungu - [@Linkedin](https://www.linkedin.com/in/gracekazungu/) - kazungungrace@gmail.com
+<br>
+Marion Njeri - [@Linkedin](https://www.linkedin.com/in/marion-njeri/) - njeriwmarion@gmail.com
 
 
